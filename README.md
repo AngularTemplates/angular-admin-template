@@ -11,9 +11,9 @@ Our products are not only a pretty face. They are built to guide you in the deve
 
 They are architected to enforce you to stick to the correct-way of building and growing a project.
 
-That is why we created [Angular DUO Template](https://angular-templates.io):
+That is why we created [Angular Admin Template](https://angular-templates.io):
 
-![Angular DUO Template](https://angular-templates.io/assets/imgs/home/pc.jpg "Angular DUO Template")
+![Angular Admin Template](https://angular-templates.io/assets/imgs/home/pc.jpg "Angular Admin Template")
 
 
 This Angular 5 Template is not just a pretty face, it includes lots of performance improvements such as:
@@ -46,4 +46,6 @@ You can learn more about this angular 5 starter template and download it in [Ang
 
 We need feedback to keep improving so please please let us know your thoughts. You can either create an issue here or drop us a line at contact@angular-templates.io
 
+## Purchased this template and need help?
+Please submit your issues here.
 
