@@ -18,7 +18,7 @@ They are architected to enforce you to stick to the correct-way of building and 
 
 That is why we created [Angular Admin Template](https://angular-templates.io/product/angular-admin-template):
 
-![Angular Admin Template](https://angular-templates.s3-us-west-2.amazonaws.com/angular-duo-template/angular-admin-template-cover.jpg "Angular Admin Template")
+![Angular Admin Template](https://angular-templates.s3-us-west-2.amazonaws.com/angular-duo-template/angular-admin-template-showcase.jpg "Angular Admin Template")
 
 
 This Angular Template is not just a pretty face, it includes lots of performance improvements such as:
