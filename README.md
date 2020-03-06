@@ -1,6 +1,6 @@
 # Angular Admin Template
 ----------------------------------------------------------
-**Notice: We have released a new and more mature [Angular Admin Template].(https://angular-templates.io/product/fully-angular-admin-template)**
+**Notice: We have released a new and more mature [Angular Admin Template](https://angular-templates.io/product/fully-angular-admin-template)**.
 
 **Fully - Angular Admin Dashboard template** is a collection of common features and use cases, UI screens and components that you can use as a whole like a starter template for your next project or cherry pick the specific features and components you want to add to your existing Angular project.
 
